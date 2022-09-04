@@ -59,7 +59,7 @@ Work experience
 ======
 * Planning and Control Algorithm Engineer, Jul 2022 - Present
   * [BYD Company Limited.](https://bydeurope.com/)
-  * Develop and implement path planning and control algorithms for an automated system in APA(Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
+  * Develop and implement path planning and control algorithms for an automated system in APA (Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
 
 
 
