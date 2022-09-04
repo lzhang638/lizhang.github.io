@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Background
 ======
 * Master of science in  Electronic information Engineering (distinction), Sep. 2021
   * [City University of Hong Kong](https://www.cityu.edu.hk/)
