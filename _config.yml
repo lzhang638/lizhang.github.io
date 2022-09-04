@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Personal Information"
 title_separator          : "-"
 name                     : &name "Li ZHANG"
 description              : &description "Planning and Control Algorithm Engineer"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             :  "Li ZHANG"
-  avatar           :  #"byd.PNG"
+  avatar           : false #"byd.PNG"
   bio              : "Planning and Control Algorithm Engineer"
   location         : "BYD Company Limited., ShenZhen, China"
   email            : "lzhang638-c@my.cityu.edu.hk"
@@ -198,7 +198,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false #true
+      author_profile: true
       read_time: true
       comments: true
       share: true
