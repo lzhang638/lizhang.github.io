@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Li ZHANG"
+title: "Personal Information"
 excerpt: "About me"
 author_profile: ture #false
 redirect_from: 
