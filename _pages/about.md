@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Li ZHANG"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
