@@ -40,7 +40,11 @@ Research Experience
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones, Jun 2018-May 2019
 
-  _Hefei University of Technology_                                                                                  Supervisor: Dr.  Qi Tan
+  _Hefei University of Technology_                                                                                  
+  
+  * Fields: Image Processing, Drones
+  * Role: Algorithms Team Leader
+  * Supervisor: Dr.  Qi Tan
   
     Precise spraying of the herbicides algorithms install on the drones was achieved by identifying weeds in the grains in order to save herbicide consumption and reduce pollution.
 
