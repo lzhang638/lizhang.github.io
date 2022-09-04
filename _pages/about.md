@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Personal Information"
+title: "Li Zhang"
 excerpt: "About me"
-author_profile: ture #false
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -83,5 +83,6 @@ Skills
 ***
 
 
-[Detailed CV](http://lzhang638.github.io/files/Li Zhang_CV.pdf)
+[Detailed CV](http://lzhang638.github.io/files/Li Zhang_CV.pdf)  
+[Email](lzhang638-c@my.cityu.edu.hk)
 
