@@ -2,7 +2,7 @@
 permalink: /
 title: "Li ZHANG"
 excerpt: "About me"
-author_profile: false
+author_profile: ture #false
 redirect_from: 
   - /about/
   - /about.html
