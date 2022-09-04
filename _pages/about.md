@@ -60,6 +60,16 @@ Work experience
 
 ***
   
+
+
+Awards and Patents
+======
+* Academic Progress Award of Hefei University of Technology in 2018 
+* Individual Scholarship of Hefei University of Technology in 2017
+* An Intelligent Anti-theft Device based on Face Recognition (Utility Model Patent) in 2017
+
+***
+
 Skills
 ======
 * C/C++
@@ -72,12 +82,6 @@ Skills
 
 ***
 
-Awards and Patents
-======
-* Academic Progress Award of Hefei University of Technology in 2018 
-* Individual Scholarship of Hefei University of Technology in 2017
-* An Intelligent Anti-theft Device based on Face Recognition (Utility Model Patent) in 2017
 
-***
 [Detailed CV](http://lzhang638.github.io/files/Li Zhang_CV.pdf)
 
