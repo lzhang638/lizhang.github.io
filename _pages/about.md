@@ -36,7 +36,7 @@ Research Experience
   * Fields: Autonomous Vehicle, MPC, Optimisation
   * Supervisor: Dr. Ehsan Nekouei	
 
-    An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC). The proposed architecture is comprised of three components:Trajectory Planner, MPC and a low-level Controller.
+    *  An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC). The proposed architecture is comprised of three components:Trajectory Planner, MPC and a low-level Controller.
 
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones
@@ -48,7 +48,7 @@ Research Experience
   * Role: Algorithms Team Leader
   * Supervisor: Dr.  Qi Tan
   
-    Precise spraying of the herbicides algorithms install on the drones was achieved by identifying weeds in the grains in order to save herbicide consumption and reduce pollution.
+    * Precise spraying of the herbicides algorithms install on the drones was achieved by identifying weeds in the grains in order to save herbicide consumption and reduce pollution.
 
 
 
@@ -61,7 +61,7 @@ Work experience
 ======
 * Planning and Control Algorithm Engineer, Jul 2022 - Present
   * [BYD Company Limited.](https://bydeurope.com/)
-  * Develop and implement path planning and control algorithms for an automated system in APA (Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
+    * Develop and implement path planning and control algorithms for an automated system in APA (Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
 
 
 
