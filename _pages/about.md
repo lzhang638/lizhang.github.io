@@ -84,5 +84,5 @@ Skills
 
 
 [Detailed CV](http://lzhang638.github.io/files/Li Zhang_CV.pdf)  
-[Email](lzhang638-c@my.cityu.edu.hk)
+Email: lzhang638-c@my.cityu.edu.hk
 
