@@ -32,9 +32,10 @@ Research Experience
 
   _City University of Hong Kong_                                                                                  
   
-  *  Supervisor: Dr. Ehsan Nekouei	
-  
-    An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC) and proposed architecture is comprised of three components: a trajectory planner, MPC and a low-level controller.
+  * Fields: Autonomous Vehicle, MPC, Optimisation
+  * Supervisor: Dr. Ehsan Nekouei	
+
+    An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC). The proposed architecture is comprised of three components:Trajectory Planner, MPC and a low-level Controller.
 
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones, Jun 2018-May 2019
