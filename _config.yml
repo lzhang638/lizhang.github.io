@@ -83,13 +83,14 @@ author:
   name             : "Li ZHANG"
   avatar           :  "profile.png"
   bio              : "Planning and Control Algorithm Engineer in BYD Co. Ltd."
-  location         : "ShenZhen, China"
-  employer         : "BYD Company Limited."
+  location         : "BYD Company Limited., ShenZhen, China"
+  email            : "lzhang638-c@my.cityu.edu.hk"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "lzhang638-c@my.cityu.edu.hk"
+  #email            : "lzhang638-c@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://bydeurope.com/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
