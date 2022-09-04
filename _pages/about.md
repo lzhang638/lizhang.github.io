@@ -43,8 +43,12 @@ Research Experience
   * Supervisor: Dr.  Qi Tan
 
 
+* Classified Predictive Model Based on Low-density Separation   
+  Bachelor Thesis, _Hefei University of Technology_          
+  Nov 2019-May 2020    
+  * Fields: Machine Learning, Data Mining
+  * Supervisor: Dr. Mingguang Shi
 
-*  3
 
 
 ***
@@ -56,42 +60,28 @@ Work experience
     * Develop and implement path planning and control algorithms for an automated system in APA (Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
 
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Automatic Driving Control Algorithm Engineer (internship), Oct 2021 - May 2022
+  * [Changsha Intelligent Driving Institute Ltd.](http://www.cidi.ai/)
+    * Develop and implement control algorithms for an automated driving system especially in Autonomous Bus.
 
 
 ***
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Python
+* MATLAB/Simulink
+* Some Optimal Solvers
+* ROS/ROS2
+* Fundamentals of SLAM and Kalman Filter
 
-Publications
+
+***
+
+Awards and Patents
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Academic Progress Award of Hefei University of Technology in 2018 
+* Individual Scholarship of Hefei University of Technology in 2017
+* An Intelligent Anti-theft Device based on Face Recognition (Utility Model Patent) in 2017
+
