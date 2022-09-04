@@ -35,7 +35,6 @@ Research Experience
   
   * Fields: Autonomous Vehicle, MPC, Optimisation
   * Supervisor: Dr. Ehsan Nekouei	
-
     *  An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC). The proposed architecture is comprised of three components:Trajectory Planner, MPC and a low-level Controller.
 
 
@@ -47,7 +46,6 @@ Research Experience
   * Fields: Image Processing, Drones
   * Role: Algorithms Team Leader
   * Supervisor: Dr.  Qi Tan
-  
     * Precise spraying of the herbicides algorithms install on the drones was achieved by identifying weeds in the grains in order to save herbicide consumption and reduce pollution.
 
 
