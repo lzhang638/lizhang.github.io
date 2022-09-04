@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Master of science in  Electronic information Engineering (distinction), Sep. 2021
-  * [City University of Hong Kong](www.cityu.edu.hk)
+  * [City University of Hong Kong](https://www.cityu.edu.hk/)
   * GPA: 3.67/4.3 (ranking:3/94)
   * Topic: Advanced Control Theory, Data Engineering, Fundamentals of Complex Network
 
