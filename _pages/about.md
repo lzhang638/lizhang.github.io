@@ -17,12 +17,14 @@ Education
   * GPA: 3.67/4.3 (ranking:3/94)
   * Topic: Advanced Control Theory, Data Engineering, Fundamentals of Complex Network
 
-***
+
   
 * Bachelor of Engineering in Autonomation, Jun. 2020
   * [Hefei University of Technology](https://www.hfut.edu.cn/) 
   * GPA: 82/100 (ranking:46/149)
   * Topic: Mathematics, Control Theory, Machine Learning
+
+***
 
 Research Experience
 ======
@@ -31,16 +33,18 @@ Research Experience
   * An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC) and proposed architecture is comprised of three components: a trajectory planner, MPC and a low-level controller.
   * Supervisor: Dr. Ehsan Nekouei	
 
-***
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones, Jun 2018-May 2019
   * Hefei University of Technology
   * Precise spraying of the herbicides algorithms install on the drones was achieved by identifying weeds in the grains in order to save herbicide consumption and reduce pollution.
   * Supervisor: Dr.  Qi Tan
 
-***
+
 
 *  3
+
+
+***
 
 Work experience
 ======
@@ -48,12 +52,15 @@ Work experience
   * [BYD Company Limited.](https://bydeurope.com/)
   * Develop and implement path planning and control algorithms for an automated system in APA(Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
 
-***
+
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+
+***
   
 Skills
 ======
