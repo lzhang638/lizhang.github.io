@@ -84,10 +84,10 @@ author:
   avatar           :  "profile.png"
   bio              : "Planning and Control Algorithm Engineer in BYD Co. Ltd."
   location         : "ShenZhen, China"
-  employer         :
+  employer         : "https://bydeurope.com/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lzhang638-c@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lzhang638"
+  github           : #"lzhang638"
   google_plus      :
   keybase          :
   instagram        :
