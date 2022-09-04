@@ -43,13 +43,6 @@ Research Experience
   * Supervisor: Dr.  Qi Tan
 
 
-* Classified Predictive Model Based on Low-density Separation   
-  Bachelor Thesis, _Hefei University of Technology_          
-  Nov 2019-May 2020    
-  * Fields: Machine Learning, Data Mining
-  * Supervisor: Dr. Mingguang Shi
-
-
 
 ***
 
