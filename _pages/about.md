@@ -32,7 +32,7 @@ Research Experience
   Master Thesis, _City University of Hong Kong_  
   Dec 2020-Aug 2021 
   
-  * Fields: Autonomous Vehicle, MPC, Optimisation
+  * Fields: MPC, Optimization, Autonomous Vehicle,
   * Supervisor: Dr. Ehsan Nekouei	
 
 
@@ -40,7 +40,7 @@ Research Experience
   Innovative and Entrepreneurial Project, _Hefei University of Technology_          
   Jun 2018-May 2019
   
-  * Fields: Image Processing, Drones
+  * Fields: Image Processing, Application in Drones
   * Role: Algorithms Team Leader
   * Supervisor: Dr.  Qi Tan
 
