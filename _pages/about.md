@@ -29,12 +29,14 @@ Education
 Research Experience
 ======
 * A Computation-aware Motion Planning and Control Architecture with Event-triggered MPC for Autonomous Vehicles (Master Thesis), Dec 2020-Aug 2021 
+
   _City University of Hong Kong_                                                                                  Supervisor: Dr. Ehsan Nekouei	
   
     An overtaking control architecture for overtaking is developed for autonomous vehicles using Model Predictive Control (MPC) and proposed architecture is comprised of three components: a trajectory planner, MPC and a low-level controller.
 
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones, Jun 2018-May 2019
+
   _Hefei University of Technology_                                                                                  Supervisor: Dr.  Qi Tan
   
     Precise spraying of the herbicides algorithms install on the drones was achieved by identifying weeds in the grains in order to save herbicide consumption and reduce pollution.
