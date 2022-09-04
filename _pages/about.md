@@ -30,7 +30,7 @@ Research Experience
 ======
 * A Computation-aware Motion Planning and Control Architecture with Event-triggered MPC for Autonomous Vehicles, Dec 2020-Aug 2021 
 
-  _Master Thesis, City University of Hong Kong_                                                                                  
+  Master Thesis, _City University of Hong Kong_                                                                                  
   
   * Fields: Autonomous Vehicle, MPC, Optimisation
   * Supervisor: Dr. Ehsan Nekouei	
@@ -40,7 +40,7 @@ Research Experience
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones, Jun 2018-May 2019
 
-  _Innovative and Entrepreneurial Project, Hefei University of Technology_                                                                                  
+  Innovative and Entrepreneurial Project, _Hefei University of Technology_                                                                                  
   
   * Fields: Image Processing, Drones
   * Role: Algorithms Team Leader
