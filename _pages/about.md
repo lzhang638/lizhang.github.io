@@ -12,7 +12,7 @@ redirect_from:
 
 Education Background
 ======
-* Master of science in  Electronic information Engineering (distinction), Sep. 2021
+* Master of Science in  Electronic information Engineering (distinction), Sep. 2021
   * [City University of Hong Kong](https://www.cityu.edu.hk/)
   * [GPA: 3.67/4.3 (ranking:3/94)](http://lzhang638.github.io/files/Li Zhang_Matser transcript.pdf)
   * Topic: Advanced Control Theory, Data Engineering, Fundamentals of Complex Network
