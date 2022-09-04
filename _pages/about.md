@@ -14,14 +14,14 @@ Education Background
 ======
 * Master of science in  Electronic information Engineering (distinction), Sep. 2021
   * [City University of Hong Kong](https://www.cityu.edu.hk/)
-  * GPA: 3.67/4.3 (ranking:3/94)
+  * [GPA: 3.67/4.3 (ranking:3/94)](lzhang638.github.io/files/Li Zhang_Master transcripts.pdf)
   * Topic: Advanced Control Theory, Data Engineering, Fundamentals of Complex Network
 
 
   
 * Bachelor of Engineering in Autonomation, Jun. 2020
   * [Hefei University of Technology](https://www.hfut.edu.cn/) 
-  * GPA: 82/100 (ranking:46/149)
+  * [GPA: 82/100 (ranking:46/149)](lzhang638.github.io/files/Li Zhang_Undergraduate transcript.pdf)
   * Topic: Mathematics, Control Theory, Machine Learning
 
 ***
@@ -29,7 +29,7 @@ Education Background
 Research Experience
 ======
 * A Computation-aware Motion Planning and Control Architecture with Event-triggered MPC for Autonomous Vehicles  
-  Master Thesis, _City University of Hong Kong_  
+  [Master Thesis](lzhang638.github.io/files/Li Zhang_Master thesis.pdf), _City University of Hong Kong_  
   Dec 2020-Aug 2021   
   * Fields: MPC, Optimization, Autonomous Vehicle,
   * Supervisor: Dr. Ehsan Nekouei	
@@ -77,4 +77,9 @@ Awards and Patents
 * Academic Progress Award of Hefei University of Technology in 2018 
 * Individual Scholarship of Hefei University of Technology in 2017
 * An Intelligent Anti-theft Device based on Face Recognition (Utility Model Patent) in 2017
+
+***
+[Detailed CV](lzhang638.github.io/files/Li Zhang_CV.pdf)
+======
+
 
