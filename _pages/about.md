@@ -13,14 +13,14 @@ redirect_from:
 Education
 ======
 * Master of science in  Electronic information Engineering (distinction), Sep. 2021
-  * City University of Hong Kong
+  * [City University of Hong Kong](www.cityu.edu.hk)
   * GPA: 3.67/4.3 (ranking:3/94)
   * Topic: Advanced Control Theory, Data Engineering, Fundamentals of Complex Network
 
 ***
   
 * Bachelor of Engineering in Autonomation, Jun. 2020
-  * Hefei University of Technology 
+  * [Hefei University of Technology](https://www.hfut.edu.cn/) 
   * GPA: 82/100 (ranking:46/149)
   * Topic: Mathematics, Control Theory, Machine Learning
 
@@ -45,7 +45,7 @@ Research Experience
 Work experience
 ======
 * Planning and Control Algorithm Engineer, Jul 2022 - Present
-  * BYD Company Limited.
+  * [BYD Company Limited.](https://bydeurope.com/)
   * Develop and implement path planning and control algorithms for an automated system in APA(Automated Parking Assistant) and AVP (Automated Valet Parking) Scenario for our own EVs.
 
 ***
