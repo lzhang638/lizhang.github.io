@@ -64,6 +64,7 @@ Work experience
 
 Awards and Patents
 ======
+* [Silver Medal (Ranking: 37/2605) Ventilator-Pressure-Prediction, Kaggle Competition in 2021](https://github.com/lzhang638/Ventilator-Pressure-Prediction)
 * Academic Progress Award of Hefei University of Technology in 2018 
 * Individual Scholarship of Hefei University of Technology in 2017
 * An Intelligent Anti-theft Device based on Face Recognition (Utility Model Patent) in 2017
