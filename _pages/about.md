@@ -39,6 +39,11 @@ Research Experience
   * Fields: MPC, Optimization, Autonomous Vehicle,
   * Supervisor: Dr. Ehsan Nekouei	
 
+* Classified Predictive Model Based on Low-density Separation  
+  Bachelor Thesis, _Hefei University of Technology_          
+  Nov 2019-May 2020    
+  * Fields: Machine Learning, Biomedical Engineering
+  * Supervisor: Prof. Mingguang Shi 
 
 * Herbicide Spraying Algorithm based on Pattern Recognition for Spraying Drones  
   Innovative and Entrepreneurial Project, _Hefei University of Technology_          
