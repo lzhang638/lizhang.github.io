@@ -28,6 +28,12 @@ Education Background
 
 Research Experience
 ======
+*Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study
+Submitted to IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2023)，  
+  May 2022-Jan 2023   
+  * Fields: Automated vehicles, Planning and control, Social-aware, Roundabouts, Driving Risk Field, Model Predictive Contouring Control,
+  	
+
 * A Computation-aware Motion Planning and Control Architecture with Event-triggered MPC for Autonomous Vehicles  
   [Master Thesis](http://lzhang638.github.io/files/Li Zhang_Master thesis.pdf), _City University of Hong Kong_  
   Dec 2020-Aug 2021   
