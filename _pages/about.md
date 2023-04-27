@@ -29,7 +29,7 @@ Education Background
 Research Experience
 ======
 * Social-aware Planning and Control for Automated Vehicles based on Driving Risk Field and Model Predictive Contouring Control: Driving through Roundabouts as a Case Study(Under Review)
-  Submitted to _IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2023)_，    
+  Submitted to _2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2023)_，    
   * Fields: Automated vehicles, Planning and control, Social-aware, Roundabouts, Driving Risk Field, Model Predictive Contouring Control,
   	
 
